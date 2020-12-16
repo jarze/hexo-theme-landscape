@@ -3,7 +3,10 @@ menu:
   Home: /
   Archives: /archives
 # rss: /atom.xml
-banner: "images/panda-waving.png"
+# banner: "images/panda-waving.png"
+banner: https://api.imacroc.cn/bing/
+background-image: https://api.imacroc.cn/acg/
+cursor: "images/cursor-dog.svg"
 
 # Content
 excerpt_link: Read More
