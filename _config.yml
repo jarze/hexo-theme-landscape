@@ -35,7 +35,7 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
+favicon: css/images/favicon.png
 twitter:
 fb_admins:
 fb_app_id:
